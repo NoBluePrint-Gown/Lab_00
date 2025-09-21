@@ -1,5 +1,5 @@
 These are Exercise assembly codes for CS3520 Lab 01
-by s202321271 N. A. S.
+by N. A. S.
 
 1. Grain Counter is Makopokopo
 2. Cattle Wealth is Mahali
